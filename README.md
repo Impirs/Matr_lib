@@ -59,15 +59,15 @@ SetMij(int i, int j, const double value)
 ```
 Замена перепенной на позиции i j на значение value
 
-+ ReadBin
++ BinaryRead
 ```
-ReadBin(const char* fname)
+BinaryRead(const char* fname)
 ```
 Чтение матрицы из бинарного файла с именем fname
   
-+ WriteBin
++ BinaryWrite
 ```
-ReadBin(const char* fname)
+BinaryRead(const char* fname)
 ```  
 Запись матрицы в бинарный файл с именем fname
 
@@ -79,7 +79,7 @@ N1.Hadamard(Matrix N2)
 
 + Det
 ```
-Det(Matrix M)
+(Matrix M).Det()
 ```
 Определитель матрицы M
 
