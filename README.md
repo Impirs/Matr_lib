@@ -1,4 +1,4 @@
-<h1 align="center">MATH LIBRARY </h1>
+<h1 align="center">MATRIX LIBRARY, LAB 7 </h1>
 
 Работа Студента Мамитова А.А.
 
